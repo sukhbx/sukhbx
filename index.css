@@ -1,11 +1,9 @@
-
-/* Style the header with a pink background and some padding */
 #navbar {
-  background-color: #f1f1f1;
-  position: fixed;
-  top: 0;
-  width: 100%;
-  transition: top 0.3s;
+  background-color: #333; /* Black background color */
+  position: fixed; /* Make it stick/fixed */
+  top: 0; /* Stay on top */
+  width: 100%; /* Full width */
+  transition: top 0.3s; /* Transition effect when sliding down (and up) */
 }
 
 /* Style the navbar links */
@@ -22,4 +20,3 @@
   background-color: #ddd;
   color: black;
 }
-
