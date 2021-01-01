@@ -1,5 +1,5 @@
 #navbar {
-  background-color: #a87e96; 
+  background-color: #ba91a9; 
   position: fixed; 
   top: 0; 
   width: 100%; 
@@ -10,13 +10,13 @@
 #navbar a {
   float: right;
   display: block;
-  color: #333;
+  color: #383033;
   text-align: center;
   padding: 15px;
   text-decoration: none;
 }
 
 #navbar a:hover {
-  background-color: #ddd;
-  color: black;
+  background-color: #9e9599;
+  color: #000000;
 }
