@@ -1,8 +1,8 @@
 #navbar {
-  background-color: #333; /* Black background color */
-  position: fixed; /* Make it stick/fixed */
-  top: 0; /* Stay on top */
-  width: 100%; /* Full width */
+  background-color: #a87e96; 
+  position: fixed; 
+  top: 0; 
+  width: 100%; 
   transition: top 0.3s; /* Transition effect when sliding down (and up) */
 }
 
@@ -10,7 +10,7 @@
 #navbar a {
   float: right;
   display: block;
-  color: #ba95b2;
+  color: #333;
   text-align: center;
   padding: 15px;
   text-decoration: none;
