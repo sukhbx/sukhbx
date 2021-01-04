@@ -1,6 +1,6 @@
 #navbar {
   background-color: #ba91a9; 
-  position: fixed; 
+  position: center, fixed; 
   top: 5%; 
   width: 100%; 
   transition: top 0.3s; /* Transition effect when sliding down (and up) */
