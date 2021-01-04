@@ -4,7 +4,7 @@
   
   
 #navbar {
-  background-color: #f2cc9d; 
+  background-color: #efe6f2; 
   position: fixed; 
   top: 0; 
   width: 100%; 
@@ -14,7 +14,7 @@
 /* Style the navbar links */
 #navbar a {
   font:  serif;
-  float: center;
+  float: right;
   display: block;
   color: #383033;
   text-align: center;
