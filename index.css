@@ -13,7 +13,7 @@ body {
 
 /* Style the navbar links */
 #navbar a {
-  font:  serif;
+  font:  monospace;
   float: right;
   display: block;
   color: #383033;
