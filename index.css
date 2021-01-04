@@ -1,5 +1,10 @@
+#body {
+  background-colour: #f2ebe6;
+}
+  
+  
 #navbar {
-  background-color: #ba91a9; 
+  background-color: #f2cc9d; 
   position: fixed; 
   top: 0; 
   width: 100%; 
