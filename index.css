@@ -9,7 +9,7 @@
 /* Style the navbar links */
 #navbar a {
   font:  serif;
-  float: right;
+  float: center;
   display: block;
   color: #383033;
   text-align: center;
