@@ -1,12 +1,12 @@
 body {
-  background-colour: #f2ebe6;
+  background-colour: #fff2de;
 }
   
   
 #navbar {
-  background-color: #286320; 
+  background-color: #000000; 
   position: fixed; 
-  top: 0; 
+  top: 2%; 
   width: 100%; 
   transition: top 0.3s; /* Transition effect when sliding down (and up) */
 }
@@ -16,7 +16,7 @@ body {
   font:  monospace;
   float: right;
   display: block;
-  color: #383033;
+  color: #ffa61c;
   text-align: center;
   padding: 15px;
   text-decoration: none;
