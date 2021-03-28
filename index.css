@@ -29,9 +29,8 @@ body {
 
 #flowerimg1 {
   position: fixed;
-  top: 20%;
-  width: 20%;
-  height: 20%;
+  max-width:100%;
+  height:auto;
 }
 
 #flowerimg2 {
