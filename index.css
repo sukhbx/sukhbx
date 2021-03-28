@@ -6,8 +6,8 @@ body {
 #navbar {
   background-color: #000000; 
   position: fixed; 
-  top: 2%; 
-  width: 95%; 
+  top: 0%; 
+  width: 100%; 
   transition: top 0.3s; /* Transition effect when sliding down (and up) */
 }
 
@@ -25,4 +25,10 @@ body {
 #navbar a:hover {
   background-color: #e6e6e6;
   color: #000000;
+}
+
+#flowerimg1 {
+  position: fixed;
+  top: 20%;
+  width: 10%;
 }
