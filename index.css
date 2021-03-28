@@ -7,7 +7,7 @@ body {
   background-color: #000000; 
   position: fixed; 
   top: 2%; 
-  width: 100%; 
+  width: 95%; 
   transition: top 0.3s; /* Transition effect when sliding down (and up) */
 }
 
