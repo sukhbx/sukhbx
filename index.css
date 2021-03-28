@@ -14,7 +14,7 @@ body {
 /* Style the navbar links */
 #navbar a {
   font:  monospace;
-  float: right;
+  float: center;
   display: block;
   color: #ffa61c;
   text-align: center;
