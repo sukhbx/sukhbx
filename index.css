@@ -2,7 +2,7 @@ body {
   background-colour: #ff1ca8;
 }
   
-  
+/* NAVBAR */
 #navbar {
   background-color: #000000; 
   position: fixed; 
@@ -14,7 +14,7 @@ body {
 /* Style the navbar links */
 #navbar a {
   font:  monospace;
-  float: center;
+  float: right;
   display: block;
   color: #ffa61c;
   text-align: center;
@@ -26,8 +26,10 @@ body {
   background-color: #e6e6e6;
   color: #000000;
 }
+/* Main background image */
 
 #flowerimg8 {
   width:100%;
   height:100%;
+  opacity; 0.7;
 }
